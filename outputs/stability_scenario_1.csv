@@ -1,6 +1,6 @@
 ,blocking_coalitions_count,worst_deficit,in_core
-shapley,1.0,0.00013110919982206592,0.0
-equal_split,7.0,0.28400733369198927,0.0
-pv_proportional,11.0,0.2193927596997013,0.0
-contribution_proportional,5.0,0.07726594229987549,0.0
+shapley,1.0,0.00013110919982262104,0.0
+equal_split,7.0,0.2840073336919896,0.0
+pv_proportional,11.0,0.21939275969970085,0.0
+contribution_proportional,5.0,0.07726594229987516,0.0
 least_core,0.0,0.0,1.0
